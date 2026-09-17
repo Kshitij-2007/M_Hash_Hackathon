@@ -1,0 +1,24 @@
+id,name,sector,type,capacity,load,demand,status,x,y
+PWR_PLANT,Meridian Generation Plant,Power,Power Plant,210,150,145,healthy,0.08,0.78
+SUB_N,North Grid Substation,Power,Substation,120,82,80,healthy,0.23,0.88
+SUB_C,Central Grid Substation,Power,Substation,135,100,96,healthy,0.24,0.66
+SUB_S,South Grid Substation,Power,Substation,105,72,70,healthy,0.20,0.43
+DIST_E,East Distribution Node,Power,Distribution Node,90,64,61,healthy,0.38,0.73
+DIST_W,West Distribution Node,Power,Distribution Node,85,59,56,healthy,0.08,0.57
+HW_N,Northern Expressway,Transportation,Highway,170,108,102,healthy,0.46,0.91
+BRIDGE_A,Rivergate Bridge,Transportation,Bridge,140,112,108,healthy,0.52,0.75
+BRIDGE_B,Harbor Bridge,Transportation,Bridge,115,73,69,healthy,0.68,0.50
+ROAD_E,East Arterial,Transportation,Road,105,70,67,healthy,0.69,0.72
+ROAD_W,West Arterial,Transportation,Road,100,65,62,healthy,0.42,0.56
+INT_C,Central Junction,Transportation,Intersection,125,93,90,healthy,0.57,0.61
+TRANSIT,Metropolitan Transit Hub,Transportation,Transit Hub,95,61,59,healthy,0.55,0.40
+WTR_PLANT,Bluewater Treatment Plant,Water,Water Treatment Plant,160,112,108,healthy,0.12,0.18
+PUMP_N,North Pump Station,Water,Pump Station,90,62,59,healthy,0.31,0.28
+PUMP_S,South Pump Station,Water,Pump Station,88,58,55,healthy,0.34,0.10
+WATER_E,East Water Distribution,Water,Distribution Node,80,55,52,healthy,0.51,0.22
+WATER_W,West Water Distribution,Water,Distribution Node,78,52,49,healthy,0.17,0.34
+HOSP_C,Central Medical Center,Healthcare,Hospital,100,68,65,healthy,0.77,0.64
+HOSP_E,Eastside Hospital,Healthcare,Hospital,85,55,52,healthy,0.90,0.74
+HOSP_W,Westside Community Hospital,Healthcare,Hospital,80,51,48,healthy,0.72,0.86
+EMERG,City Emergency Center,Healthcare,Emergency Center,70,44,42,healthy,0.86,0.46
+CLINIC_S,South District Clinic,Healthcare,Clinic,60,36,34,healthy,0.70,0.20
